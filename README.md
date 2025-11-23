@@ -24,6 +24,12 @@ It consists of two services:
 
 \- Maven 3.8+
 
+\-intelliJ or STS
+
+\- PostMan (Optional)
+
+\- Git Bash (Optional)
+
 
 \## Steps
 
